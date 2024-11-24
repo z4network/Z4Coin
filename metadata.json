@@ -1,0 +1,23 @@
+{
+    "name": "Z4Coin",
+    "symbol": "Z4C",
+    "description": "Z4Coin is a utility token built on Solana.",
+    "image": "https://raw.githubusercontent.com/z4network/Z4Coin/refs/heads/main/z4coin.png",
+    "attributes": [
+      {
+        "trait_type": "Utility",
+        "value": "General"
+      }
+    ],
+    "external_url": "https://z4.network/token/z4coin",
+    "properties": {
+      "files": [
+        {
+          "uri": "https://raw.githubusercontent.com/z4network/Z4Coin/refs/heads/main/z4coin.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image"
+    }
+  }
+  
